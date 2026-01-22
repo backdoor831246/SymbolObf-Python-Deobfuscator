@@ -1,4 +1,4 @@
-# SymbolObf Python Unpacker
+# SymbolObf Python Deobfuscator
 
 Simple Python deobfuscator for scripts obfuscated with **SymbolObf-Python** by TheHellTower.
 
